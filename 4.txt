@@ -1,2 +1,2 @@
-a O(n)		: linear
-b O(log(n))	: binary
+a O(n)		: linear	: fer einusinni í gegun N
+b O(log(n))	: binary	: splitar upp og happar um
